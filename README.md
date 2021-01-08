@@ -10,6 +10,7 @@ customer, administrator
 
   >Customer
 
+
 This user will register to be a member to use the online system of this online restaurant management system. This online ordering divided into two type of customer; it is customer dine-in ordering and takeaway ordering. For dine in ordering, customer will view menu, make online ordering and make a reservation table. This system allows customer to place an order or allow him to cancel the book order.  But takeaway ordering, customer can view menu and online ordering without reservation table. During login, the menu items will appear accordingly. As availability of items differ from time to time. Customer can create his new account or he can edit his personal information from the existing account.
 
   >Administrator 
@@ -20,10 +21,15 @@ Administrator or manager is the person who will manage the entire system. he can
 
 There are 6 modules in this project:
 HOME
+
 ABOUT
+
 CUSTOMER
+
 FOODMENU
+
 EMPLOYEE
+
 CONTACT US/FEEDBACK
 
 >>After successful login the customer can access the menu page with the items listed according to the desired time. The main point of developing this system is to help restaurant administrator manage the restaurant business and help customer for online ordering and reserve table.
